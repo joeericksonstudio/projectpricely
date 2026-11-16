@@ -1,0 +1,1 @@
+61 static pages mirrored from the live Cloudflare Pages deploy (projectpricely.pages.dev). Canonical sitemap URLs point at projectpricely.com, which is not yet owned - cosmetic until a payment rail exists.
