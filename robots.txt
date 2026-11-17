@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://projectpricely.pages.dev/sitemap.xml
